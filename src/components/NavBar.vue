@@ -1,7 +1,7 @@
 <template>
 
-    <div class="bg-transparent">
-        <div class="flex px-2">
+    <div class="bg-white opacity-100 md:opacity-80 fixed  w-full z-10">
+        <div class="flex px-2 md:px-18 xl:px-64">
             <div class="flex h-12 lg:hidden  w-20 bg-transparent m-2">
                 <p class="m-auto text-4xl">&equiv;</p>
             </div>
@@ -13,13 +13,13 @@
             </div>
             <div class="hidden md:hidden h-12 w-20 bg-transparent m-2 lg:flex lg:w-full lg:h-20 lg:items-center lg:justify-end lg:px-0">
                 <div class="bg-transparent h-full w-36 flex font-bold">
-                    <p class="m-auto">VENTAJAS</p>
+                    <p class="m-auto">INICIO</p>
                 </div>
                 <div class="bg-transparent h-full w-36 flex font-bold">
                     <p class="m-auto">PRODUCTOS</p>
                 </div>
                 <div class="bg-transparent h-full w-36 flex font-bold">
-                    <p class="m-auto">MÓDULOS</p>
+                    <p class="m-auto">ACERCA DE</p>
                 </div>
                 <div class="bg-transparent h-full w-36 flex font-bold">
                     <p class="m-auto">CLIENTES</p>

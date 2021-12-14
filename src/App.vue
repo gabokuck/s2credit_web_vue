@@ -9,8 +9,11 @@ import NavBarVue from './components/NavBar.vue';
 
 <template>
   
-  <NavBarVue/>
-  <BannerVue/>
+  <div class="h-screen">
+    <NavBarVue/>
+    <BannerVue/>
+  </div>
+  
   
 
 </template>
